@@ -15,9 +15,6 @@ Installation
 Assurezvous davoir gcc et ncurses installes
 sudo aptget install gcc libncurses5dev libncursesw5dev
 
-Compilez le programme
-gcc morpion.c lncurses o morpion
-
 Comment jouer
 Dans le menu
 Utilisez les fleches pour naviguer
